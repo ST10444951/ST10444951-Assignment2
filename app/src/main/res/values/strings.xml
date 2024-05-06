@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ST10444951ASS2</string>
+    <string name="hi_there_welcome_to_milo_your_personal_virtual_pet">\tHI there welcome to Milo your personal virtul app</string>
+    <string name="play">playing</string>
+    <string name="clean">cleaning</string>
+    <string name="clean_nice_and_clean">nice and clean\n</string>
+    <string name="play_with_me">come play with me</string>
+    <string name="eating">eat</string>
+</resources>
